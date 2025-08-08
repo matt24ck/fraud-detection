@@ -16,7 +16,7 @@ A machine learning project that detects fraudulent credit card transactions in r
 ---
 
 ## 📁 Project Structure
-fraud-detector/
+fraud-detector/  
 ├── app.py # Streamlit app  
 ├── FraudDetection.ipynb # Notebook for model creation  
 ├── model/  
