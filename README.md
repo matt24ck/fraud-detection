@@ -17,17 +17,17 @@ A machine learning project that detects fraudulent credit card transactions in r
 
 ## 📁 Project Structure
 fraud-detector/
-├── app.py # Streamlit app
-├── FraudDetection.ipynb # Notebook for model creation
-├── model/
-│ ├── xgb_model.pkl # Trained XGBoost model
-│ └── threshold.pkl # Custom threshold (e.g. 0.9)
-│ 
-├── archive/
-│ └── creditcard.csv # Dataset
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-└── venv/ # Virtual environment (not committed)
+├── app.py # Streamlit app  
+├── FraudDetection.ipynb # Notebook for model creation  
+├── model/  
+│ ├── xgb_model.pkl # Trained XGBoost model  
+│ └── threshold.pkl # Custom threshold (e.g. 0.9)  
+│   
+├── archive/  
+│ └── creditcard.csv # Dataset  
+├── requirements.txt # Dependencies  
+├── README.md # Project documentation  
+└── venv/ # Virtual environment (not committed)  
 
 
 ---
